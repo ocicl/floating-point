@@ -1,0 +1,10 @@
+* floating-point
+
+A Common Lisp library with functions for calculating the error between and predicates for determining the equality of 2 floating point numbers.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/OdonataResearchLLC/floating-point.git   |
+| commit  | 79d5588  |
+| systems | floating-point |
+|---------+-------------------------------------------|
+
