@@ -8,4 +8,4 @@ A Common Lisp library with functions for calculating the error between and predi
 | systems | floating-point |
 |---------+-------------------------------------------|
 
- 
+  
